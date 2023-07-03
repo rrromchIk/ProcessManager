@@ -1,7 +1,7 @@
 # processManager
 
-mini process explorer
-Ui-app to manage processes in Windows OS; created in Qt based on cpp
+Mini process explorer
+Ui-app to manage processes in Windows OS; created in QtCreator cpp framework for UI-apps devoloping
 
 also, added Linux console variant
 
